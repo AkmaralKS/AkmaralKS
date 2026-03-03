@@ -17,3 +17,6 @@ I enjoy automation testing, UI/UX design, and building meaningful applications.
 - Traveling
 - Reading
 - Building creative tech projects
+
+
+![Profile Banner]([image-link-here](https://www.projectmanagertemplate.com/post/quality-assurance-integration-product-development-lifecycle))
